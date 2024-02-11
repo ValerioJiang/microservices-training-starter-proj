@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abdd0058-8086-4b02-915f-a476f9c70c42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/record/CustomerRegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/record/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="abdd0058-8086-4b02-915f-a476f9c70c42" name="Changes" comment="added docker yml file">
+      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/training/customer/model/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,7 @@
       <list>
         <option value="Record" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -98,6 +97,18 @@
       <option name="presentableId" value="Default" />
       <updated>1707574475172</updated>
     </task>
+    <task id="LOCAL-00001" summary="added docker yml file">
+      <created>1707667402400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707667402400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added docker yml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added docker yml file" />
   </component>
 </project>
